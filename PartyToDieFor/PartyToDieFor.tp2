@@ -69,6 +69,9 @@ LANGUAGE ~Russian (by CblblP & Arcanecoast.ru)~
          ~PartyToDieFor/Languages/english/setup.tra~
          ~PartyToDieFor/Languages/russian/setup.tra~
 
+LANGUAGE ~Simplified Chinese~
+         ~schinese~
+         ~PartyToDieFor/Languages/schinese/setup.tra~
 
 BEGIN  @1 /* A Party to Die For */
 DESIGNATED 0
